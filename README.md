@@ -27,7 +27,13 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 
 ---
 
-## Upcoming Projects
+### 4. Basic Calculator
+> A simple calculator that performs basic operations (+, -, *, /) with input validation, division-by-zero checks, and an option to retry.
 
-- Basic Calculator
+**File:** `Basic Calculator.py`
+
+---
+
+## Upcoming Project
+
 - To-Do List
