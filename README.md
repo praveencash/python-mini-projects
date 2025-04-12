@@ -20,8 +20,14 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 
 ---
 
+### 3. Quiz Game
+> A simple text-based quiz that asks 5 general knowledge questions, checks answers, scores the user, gives feedback, and lets the user replay the game.
+
+**File:** `Quiz game.py`
+
+---
+
 ## Upcoming Projects
 
-- Quiz Game
 - Basic Calculator
 - To-Do List
