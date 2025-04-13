@@ -34,6 +34,7 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 
 ---
 
-## Upcoming Project
+### 5. To-Do List App
+> A simple task manager that lets users add, view, and delete tasks with a clean menu interface and input validation.
 
-- To-Do List
+**File:** `To-Do list.py`
