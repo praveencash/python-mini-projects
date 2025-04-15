@@ -38,3 +38,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > A simple task manager that lets users add, view, and delete tasks with a clean menu interface and input validation.
 
 **File:** `To-Do list.py`
+
+---
+
+### 6. Contact Book App
+> A menu-based contact manager where users can add, view, search, and delete contacts using a Python dictionary.
+
+**File:** `Contact Book.py`
