@@ -45,3 +45,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > A menu-based contact manager where users can add, view, search, and delete contacts using a Python dictionary.
 
 **File:** `Contact Book.py`
+
+---
+
+### 7. Student Grade Tracker
+> A menu-driven app to add, view, update, and delete student grades using a dictionary. Handles case-insensitive names and gives clean feedback for each operation.
+
+**File:** `Student Grade Tracker.py`
