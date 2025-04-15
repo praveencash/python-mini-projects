@@ -52,3 +52,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > A menu-driven app to add, view, update, and delete student grades using a dictionary. Handles case-insensitive names and gives clean feedback for each operation.
 
 **File:** `Student Grade Tracker.py`
+
+---
+
+### 8. Simple Notepad App
+> A file-based notepad where users can type, save, and view notes using `.txt` files with Python's file handling tools.
+
+**File:** `Simple Notepad.py`
