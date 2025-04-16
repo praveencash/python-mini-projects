@@ -59,3 +59,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > A file-based notepad where users can type, save, and view notes using `.txt` files with Python's file handling tools.
 
 **File:** `Simple Notepad.py`
+
+---
+
+### 9. Dice Roller Game
+> A fun mini app that simulates a dice roll using Python's `random` module. Keeps rolling until the user chooses to exit.
+
+**File:** `Dice roller.py`
