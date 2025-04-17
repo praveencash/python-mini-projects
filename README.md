@@ -66,3 +66,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > A fun mini app that simulates a dice roll using Python's `random` module. Keeps rolling until the user chooses to exit.
 
 **File:** `Dice roller.py`
+
+---
+
+### 10. Countdown Timer App
+> A countdown timer that lets the user set a number of seconds, shows a smooth startup animation using `end=""`, and counts down with `time.sleep()` delays.
+
+**File:** `Simple Timer.py`
