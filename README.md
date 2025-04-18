@@ -73,3 +73,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > A countdown timer that lets the user set a number of seconds, shows a smooth startup animation using `end=""`, and counts down with `time.sleep()` delays.
 
 **File:** `Simple Timer.py`
+
+---
+
+### 11. File Organizer App
+> Automatically organizes files in the current directory by type. Moves images, documents, and videos into separate folders using the `os` module.
+
+**File:** `Simple File Organizer.py`
