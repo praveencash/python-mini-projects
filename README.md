@@ -80,3 +80,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > Automatically organizes files in the current directory by type. Moves images, documents, and videos into separate folders using the `os` module.
 
 **File:** `Simple File Organizer.py`
+
+---
+
+### 12. Quiz Game (Error-Handled)
+> An upgraded quiz game that accepts flexible answers, handles invalid or blank inputs using `try-except`, and offers a replay option. Now crash-proof and user-friendly.
+
+**File:** `Quiz advanced.py`
