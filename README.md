@@ -94,3 +94,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > A class-based mini project using Object-Oriented Programming. It stores student details, calculates the average of three subject scores, and assigns a grade. Includes methods for data management and a full report display.
 
 **File:** `Student Report Card.py`
+
+---
+
+### 14. Inheritance Demo (Person → Student & Teacher)
+> Demonstrates the concept of inheritance in Python OOP. A base `Person` class is extended by both `Student` and `Teacher` classes using `super()`. Each child class includes its own custom attributes and methods.
+
+**File:** `Mini Inheritance Task.py`
