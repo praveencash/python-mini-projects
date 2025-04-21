@@ -87,3 +87,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > An upgraded quiz game that accepts flexible answers, handles invalid or blank inputs using `try-except`, and offers a replay option. Now crash-proof and user-friendly.
 
 **File:** `Quiz advanced.py`
+
+---
+
+### 13. Student Report Card (OOP)
+> A class-based mini project using Object-Oriented Programming. It stores student details, calculates the average of three subject scores, and assigns a grade. Includes methods for data management and a full report display.
+
+**File:** `Student Report Card.py`
