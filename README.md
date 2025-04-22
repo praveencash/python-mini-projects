@@ -101,3 +101,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > Demonstrates the concept of inheritance in Python OOP. A base `Person` class is extended by both `Student` and `Teacher` classes using `super()`. Each child class includes its own custom attributes and methods.
 
 **File:** `Mini Inheritance Task.py`
+
+---
+
+### 15. Animal Sound Simulator (Method Overriding)
+> Demonstrates method overriding in Python OOP. A base `Animal` class has a `make_sound()` method that is overridden by child classes `Dog` and `Cat` to produce unique outputs.
+
+**File:** `Animal Sound Simulator.py`
