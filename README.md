@@ -108,3 +108,16 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > Demonstrates method overriding in Python OOP. A base `Animal` class has a `make_sound()` method that is overridden by child classes `Dog` and `Cat` to produce unique outputs.
 
 **File:** `Animal Sound Simulator.py`
+
+---
+
+### 16. Personal Utility Toolkit (Custom Package)
+> A custom Python package (`utils`) containing modules for greetings, basic maths, and text tools. Demonstrates modular coding and package structuring. Main script imports and uses these modules.
+
+**Files and Structure:**
+- utils/
+  - __init__.py
+  - greetings.py
+  - maths.py
+  - texttools.py
+- main2.py
