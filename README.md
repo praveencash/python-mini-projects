@@ -121,3 +121,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
   - maths.py
   - texttools.py
 - main2.py
+
+---
+
+### 17. Student Report Card System (OOP + Custom Error Handling)
+> A command-line tool that collects student marks, calculates average, assigns grades, and handles invalid input using a custom exception (`NegativeMarksError`). Structured using Object-Oriented Programming for clean logic and easy expansion.
+
+**File:** `Student Report.py`
