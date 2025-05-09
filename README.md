@@ -135,3 +135,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > Generates a strong random password using letters, digits, and symbols. The user specifies the password length, and the program randomly selects characters using Python's `random` and `string` modules.
 
 **File:** `Random Password Generator.py`
+
+---
+
+### 19. Math Utility Tool
+> A command-line tool that performs common math operations like square root, power, round up, and round down using Python's `math` module.
+
+**File:** `Math Utility Tool.py`
