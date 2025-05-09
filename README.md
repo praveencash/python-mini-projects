@@ -128,3 +128,10 @@ A collection of beginner-friendly Python mini projects built for hands-on learni
 > A command-line tool that collects student marks, calculates average, assigns grades, and handles invalid input using a custom exception (`NegativeMarksError`). Structured using Object-Oriented Programming for clean logic and easy expansion.
 
 **File:** `Student Report.py`
+
+---
+
+### 18. Random Password Generator
+> Generates a strong random password using letters, digits, and symbols. The user specifies the password length, and the program randomly selects characters using Python's `random` and `string` modules.
+
+**File:** `Random Password Generator.py`
